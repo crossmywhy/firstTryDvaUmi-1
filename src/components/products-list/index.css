@@ -1,0 +1,22 @@
+.ant-table-wrapper {
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  overflow: hidden;
+}
+
+.ant-table-thead tr th,
+.ant-table-tbody tr td {
+  text-align: center;
+}
+.add-item {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.goback {
+  margin-top: 15px;
+}
+.action-bar {
+  display: flex;
+  justify-content: center;
+}

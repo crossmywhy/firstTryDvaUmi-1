@@ -1,0 +1,16 @@
+.search-container {
+  display: flex;
+  justify-content: space-between;
+  background: #fff;
+  padding: 20px 10px;
+  /* border: 1px solid #e8e8e8; */
+  border-radius: 4px;
+}
+
+.search-left {
+  display: flex;
+}
+
+.search-left .ant-input-group-wrapper {
+  margin-right: 15px;
+}
